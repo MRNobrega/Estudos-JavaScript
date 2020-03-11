@@ -1,0 +1,38 @@
+body{
+    /* background-image: url(../imagens/fundo.png); */
+    background-attachment: fixed;
+    /* background-color: black; */
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
+
+input {
+    height: 50px;
+    width: 300px;
+    background-color: rgb(110, 87, 126);
+    font-size: 20px;
+   
+    border: 2px solid rgb(255, 0, 0);
+    border-radius: 4px;
+    color: mintcream;
+}
+
+button{
+    height: 55px;
+    size: 50px, 100%;
+    background-color: lightcoral;
+    font-size: 20px;
+    size: 50px, 100px;
+    width: 100px;
+    color: mintcream;
+}
+
+div{
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
